@@ -1,5 +1,7 @@
 # NAVER Basketball News Article Scraper :smiley:
 
+  > With this app, you can scrape **header titles** and take a brief **screenshot** of each article in the NAVER basketball news page.
+
 ## USAGE
 - clone it to your local directory
 - <code>npm install</code>
