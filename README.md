@@ -10,7 +10,6 @@
 - <code>npm install</code>
 - <code>npm start</code>
 - When executed, <code>screenshot</code> folder will be created in your directory where all the screenshots of articles will be saved. Also, <code>data.txt</code> file will be created where article titles will be saved so that you can use them for other purposes
-- 
 
 ![Scraping...](./images/1.png)
 ![Scraping...](./images/2.png)
