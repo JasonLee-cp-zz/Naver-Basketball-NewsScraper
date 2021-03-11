@@ -15,7 +15,7 @@ const URL =
 
   //TODO: puppeteer
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
   });
   const page = await browser.newPage();
   await page.goto(URL);
