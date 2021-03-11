@@ -37,6 +37,7 @@ const URL =
 
   //TODO: Scraping
   for (let pageNum = 2; pageNum <= pageLength + 1; pageNum++) {
+    if (pageNum >= 12) break; //10 pages max
     const tempNews = [];
     //TODO: Get # of articles in the current page
     await page.waitForSelector("#_newsList > ul");
