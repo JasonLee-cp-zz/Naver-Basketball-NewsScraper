@@ -2,7 +2,8 @@
 
   > With this app, you can scrape **header titles** and take a brief **screenshot** of each article in the NAVER basketball news page.
   > 
-  > Built with <code>node.js</code> and <code>puppeteer</code> package
+  > Built with <code>node.js</code> and <code>puppeteer</code> package. You MUST have Node.js installed in prior to using this app.
+  >
 
 ## USAGE
 - clone it to your local directory
