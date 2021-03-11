@@ -1,6 +1,9 @@
 # NAVER Basketball News Article Scraper :smiley:
 
-[1] <code>nano</code>
+## USAGE
+- clone it to your local directory
+- <code>npm install</code>
+- <code>npm start</code>
 
 <img src="img/1.png" style="width:100px; height:100px;"/>
 
