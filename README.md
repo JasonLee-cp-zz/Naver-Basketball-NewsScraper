@@ -5,11 +5,11 @@
 - <code>npm install</code>
 - <code>npm start</code>
 
-![Scraping...](/images/1.png)
+![Scraping...](/images/1.png = 50x50)
 
 
 ![Scraping...](/images/2.png)
 
 
-![Scraping...](/images/2.png)
+![Scraping...](/images/3.png)
 
