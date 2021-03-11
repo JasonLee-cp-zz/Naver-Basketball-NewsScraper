@@ -5,7 +5,7 @@
 - <code>npm install</code>
 - <code>npm start</code>
 
-![Scraping...](./images/1.png = 50x20)
+<img src="./images/1.png" alt="drawing" style="width:60px;"/>
 
 
 ![Scraping...](./images/2.png)
