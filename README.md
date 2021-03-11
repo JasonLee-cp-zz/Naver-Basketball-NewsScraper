@@ -1,6 +1,6 @@
 # NAVER Basketball News Article Scraper :smiley:
 
-[1] Run
+[1] <code>nano</code>
 
 <img src="img/1.png" style="width:100px; height:100px;"/>
 
